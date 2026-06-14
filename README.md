@@ -16,9 +16,15 @@
 
 ## 👩🏽‍💼 About Me
 
-I am a market intelligence and analytics professional with 6+ years of experience analyzing competitive landscapes, pricing trends, industry performance, customer behavior, and business opportunities.
+Ore Atobatele is an economics and analytics professional with 6+ years of experience at the intersection of data, strategy, and business performance.
 
-My background includes experience at EY, Deloitte, Celanese, and Affordable Dream Cars, where I have worked on pricing analysis, benchmarking studies, forecasting, executive reporting, and business performance insights.
+With an M.Sc. in Economics from Texas A&M University and an M.Sc. in Business Analytics from Mercer University, Ore brings a blend of quantitative training and real-world business application. Her work has spanned financial analysis, competitive benchmarking, industry trend research, and market intelligence, delivering insights that help organizations navigate complexity and make confident, data-driven decisions.
+
+She has a strong track record of analyzing financial statements, evaluating macroeconomic conditions, and translating complex findings into clear, executive-ready recommendations across retail, consumer products, oil and gas, and restaurant sectors. 
+
+Ore is proficient in R, SQL, Tableau, Python, and Excel, and is passionate about leveraging data and analytics to drive measurable business impact, including pricing strategy, demand forecasting, and operational efficiency.
+
+She thrives at the intersection of data and strategy and is driven by solving high-stakes business problems with precision and clarity.
 
 ---
 
