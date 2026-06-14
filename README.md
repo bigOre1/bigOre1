@@ -1,16 +1,100 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Oreoluwa Atobatele 👋</h1>
 
-<!--
-**bigOre1/bigOre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=7A3EF0&center=true&vCenter=true&width=800&lines=Market+Intelligence+Analyst;Competitive+Intelligence+Analyst;Pricing+Strategy+Analyst;Business+Intelligence+Analyst;Strategy+Analyst;Commercial+Strategy+Analyst;Revenue+Management+Analyst;Corporate+Development+Analyst;Economic+Consultant;Product+Analytics+%2F+Growth+Analytics" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Market Intelligence | Pricing Strategy | Business Intelligence | Data Analytics</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I turn complex market, pricing, and business data into clear insights that support smarter decisions, stronger strategy, and measurable business growth.
+</p>
+
+---
+
+## 👩🏽‍💼 About Me
+
+I am a market intelligence and analytics professional with 6+ years of experience analyzing competitive landscapes, pricing trends, industry performance, customer behavior, and business opportunities.
+
+My background includes experience at EY, Deloitte, Celanese, and Affordable Dream Cars, where I have worked on pricing analysis, benchmarking studies, forecasting, executive reporting, and business performance insights.
+
+---
+
+## 🎯 Target Roles
+
+- Market Intelligence Analyst  
+- Competitive Intelligence Analyst  
+- Pricing Analyst / Pricing Strategy Analyst  
+- Business Intelligence Analyst  
+- Strategy Analyst  
+- Commercial Strategy Analyst  
+- Revenue Management Analyst  
+- Corporate Development Analyst  
+- Economic Consultant  
+- Product Analytics / Growth Analytics  
+
+---
+
+## 🛠️ Tools & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+---
+
+## 📊 What I Do
+
+- Market and competitor research  
+- Pricing and revenue analysis  
+- Forecasting and trend analysis  
+- Business intelligence dashboards  
+- Executive-ready reporting  
+- Customer behavior and operational analysis  
+- Data storytelling for business decisions  
+
+---
+
+## 🚀 Featured Project
+
+### 🛒 Kroger Checkout Efficiency & Revenue Optimization
+
+A business analytics project focused on improving checkout efficiency, reducing customer wait times, and optimizing cashier and self-checkout utilization.
+
+**Tools Used:** Python, JaamSim, Excel, Data Analysis, Simulation Modeling
+
+**Business Impact:**
+- Analyzed queue times, service duration, utilization, and customer flow  
+- Compared cashier-operated lanes vs. self-checkout systems  
+- Built simulation models to evaluate operational performance  
+- Increased projected cashier utilization from 20% to over 90%  
+- Improved self-checkout utilization to 81%  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bigOre1&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigOre1&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:ore.atobatele@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ore.atobatele%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
