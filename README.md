@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Oreoluwa Atobatele 👋</h1>
+<h1 align="center">Hi, I'm Ore Atobatele 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=7A3EF0&center=true&vCenter=true&width=800&lines=Market+Intelligence+Analyst;Competitive+Intelligence+Analyst;Pricing+Strategy+Analyst;Business+Intelligence+Analyst;Strategy+Analyst;Commercial+Strategy+Analyst;Revenue+Management+Analyst;Corporate+Development+Analyst;Economic+Consultant;Product+Analytics+%2F+Growth+Analytics" />
