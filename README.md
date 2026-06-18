@@ -97,10 +97,11 @@ A business analytics project focused on improving checkout efficiency, reducing 
 
 ---
 
+
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:ore.atobatele@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ore.atobatele%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/oreoluwaatobatele/">
+    <img src="https://img.shields.io/badge/LinkedIn-Oreoluwa%20Atobatele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
